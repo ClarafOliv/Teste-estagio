@@ -13,7 +13,7 @@ Pesquise e explique com suas palavras:
 
 - O que são WebSockets?
   
-__É uma tecnologia que permite criar uma conexão bidirecional e contínua do usuário com um servidor
+__É uma tecnologia que permite criar uma conexão bidirecional e contínua de um usuário com um servidor
   
 - Como funcionam?
   
