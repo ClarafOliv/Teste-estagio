@@ -31,8 +31,8 @@ Você deve criar um pequeno script que se conecta ao **servidor WebSocket** que 
 1. Criar um pequeno código na linguagem que preferir
 2. Estabelecer a conexão com o servidor WebSocket
 3. Ler a mensagem recebida
-   
-    __Mensagem: "Olá mundo! LTIS 2025"
+
+  __Mensagem: "Olá mundo! LTIS 2025"
   
 URL do servidor: websocket-fh6l.onrender.com
 
